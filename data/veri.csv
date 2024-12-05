@@ -1,0 +1,501 @@
+Ev Tipi,Konum,Oda Sayısı,Kişi Sayısı,Havuz,WiFi,Kahvaltı,Fiyat
+Oda,Kırsal,2,4,0,1,1,275
+Oda,Kırsal,2,10,1,1,0,365
+Daire,Şehir Merkezi,2,8,0,0,0,260
+Oda,Şehir Merkezi,5,4,0,1,1,260
+Villa,Kırsal,3,1,0,0,0,300
+Daire,Kırsal,3,1,0,1,1,300
+Oda,Şehir Merkezi,4,5,0,1,0,230
+Villa,Kırsal,4,5,0,1,0,405
+Daire,Kırsal,1,8,1,1,1,390
+Villa,Kırsal,5,1,1,0,0,365
+Villa,Şehir Merkezi,3,3,1,0,1,305
+Villa,Şehir Merkezi,4,10,1,1,1,455
+Villa,Şehir Merkezi,4,4,1,1,0,340
+Daire,Kırsal,5,3,0,0,1,345
+Daire,Kırsal,4,7,0,1,0,385
+Daire,Şehir Merkezi,1,1,0,0,1,160
+Villa,Şehir Merkezi,3,7,1,0,1,365
+Daire,Kırsal,4,8,0,1,1,425
+Oda,Kırsal,1,1,0,1,1,210
+Daire,Kırsal,3,2,0,0,1,290
+Daire,Şehir Merkezi,2,5,0,0,1,240
+Villa,Kırsal,3,10,1,1,1,510
+Villa,Şehir Merkezi,2,10,0,0,0,340
+Villa,Şehir Merkezi,5,1,0,0,0,265
+Oda,Şehir Merkezi,5,4,1,0,1,260
+Oda,Şehir Merkezi,2,6,0,1,1,230
+Oda,Şehir Merkezi,3,6,0,1,0,225
+Villa,Kırsal,5,8,0,1,1,495
+Daire,Şehir Merkezi,4,7,0,0,1,310
+Oda,Şehir Merkezi,1,5,0,0,0,145
+Villa,Şehir Merkezi,4,3,1,0,0,300
+Oda,Kırsal,2,7,1,1,0,320
+Oda,Kırsal,1,7,0,1,1,300
+Daire,Kırsal,5,7,0,1,0,405
+Oda,Kırsal,1,8,1,1,1,340
+Villa,Şehir Merkezi,2,4,1,0,0,275
+Oda,Kırsal,2,8,0,0,0,285
+Daire,Kırsal,3,8,0,0,1,380
+Oda,Kırsal,5,9,1,0,0,385
+Oda,Şehir Merkezi,5,9,0,1,0,310
+Oda,Şehir Merkezi,4,7,1,1,0,285
+Villa,Şehir Merkezi,2,3,0,0,0,235
+Villa,Kırsal,4,3,1,0,1,400
+Oda,Şehir Merkezi,1,3,1,1,1,190
+Daire,Kırsal,4,2,1,0,0,310
+Oda,Kırsal,2,6,0,1,0,280
+Oda,Şehir Merkezi,4,7,1,1,1,310
+Daire,Kırsal,4,8,1,0,1,425
+Daire,Şehir Merkezi,3,3,1,0,1,255
+Villa,Kırsal,3,2,0,0,1,340
+Oda,Şehir Merkezi,4,2,0,1,0,185
+Oda,Şehir Merkezi,3,2,1,0,1,190
+Oda,Kırsal,2,9,1,1,0,350
+Oda,Şehir Merkezi,3,1,0,1,0,150
+Daire,Kırsal,5,7,0,0,0,380
+Oda,Kırsal,3,10,1,1,0,385
+Daire,Şehir Merkezi,2,4,0,0,1,225
+Villa,Şehir Merkezi,5,1,1,0,0,290
+Oda,Kırsal,4,10,0,0,1,380
+Villa,Kırsal,3,7,0,0,0,390
+Daire,Şehir Merkezi,4,7,0,0,0,285
+Oda,Şehir Merkezi,1,5,0,1,1,195
+Oda,Kırsal,3,1,1,1,1,275
+Villa,Kırsal,4,6,0,1,0,420
+Oda,Kırsal,4,6,1,1,0,345
+Daire,Şehir Merkezi,4,6,0,1,1,320
+Villa,Şehir Merkezi,1,1,1,1,1,260
+Villa,Şehir Merkezi,5,1,0,1,0,290
+Daire,Kırsal,2,5,0,0,1,315
+Daire,Şehir Merkezi,4,9,0,0,0,315
+Daire,Şehir Merkezi,5,7,1,0,1,355
+Villa,Şehir Merkezi,4,8,1,1,1,425
+Oda,Kırsal,5,9,0,1,0,385
+Oda,Kırsal,2,8,0,0,1,310
+Oda,Kırsal,3,6,1,1,1,350
+Oda,Şehir Merkezi,4,6,1,0,1,270
+Oda,Şehir Merkezi,5,9,0,0,1,310
+Villa,Şehir Merkezi,5,4,0,1,0,335
+Oda,Şehir Merkezi,2,2,0,0,0,120
+Oda,Şehir Merkezi,2,4,1,0,1,200
+Villa,Şehir Merkezi,1,7,0,1,1,325
+Daire,Şehir Merkezi,2,5,0,1,0,240
+Daire,Kırsal,5,10,1,1,0,475
+Oda,Şehir Merkezi,1,5,1,0,0,170
+Daire,Kırsal,5,2,0,0,1,330
+Villa,Şehir Merkezi,3,2,0,0,1,265
+Daire,Kırsal,2,6,1,1,0,355
+Oda,Şehir Merkezi,2,9,1,0,1,275
+Oda,Kırsal,2,1,1,1,0,230
+Villa,Kırsal,2,5,0,0,1,365
+Villa,Kırsal,5,5,1,1,1,475
+Villa,Kırsal,5,10,0,1,0,500
+Oda,Kırsal,5,9,0,1,0,385
+Daire,Şehir Merkezi,1,8,0,0,1,265
+Oda,Şehir Merkezi,5,8,1,1,0,320
+Villa,Kırsal,5,2,0,1,1,405
+Villa,Kırsal,3,6,0,0,1,400
+Daire,Şehir Merkezi,3,9,1,1,0,345
+Villa,Kırsal,1,2,1,1,1,350
+Daire,Kırsal,4,6,0,0,1,370
+Oda,Kırsal,1,1,0,0,1,185
+Villa,Şehir Merkezi,4,4,0,1,1,340
+Villa,Kırsal,5,3,1,1,0,420
+Villa,Şehir Merkezi,2,4,0,0,1,275
+Villa,Kırsal,1,7,0,0,1,375
+Oda,Kırsal,4,9,0,0,1,365
+Oda,Kırsal,3,10,0,1,0,360
+Villa,Şehir Merkezi,4,8,1,1,1,425
+Daire,Şehir Merkezi,5,3,0,0,0,245
+Villa,Kırsal,4,10,1,1,0,505
+Villa,Şehir Merkezi,5,4,0,0,1,335
+Daire,Şehir Merkezi,3,7,0,0,1,290
+Villa,Şehir Merkezi,4,4,1,1,1,365
+Villa,Şehir Merkezi,1,1,0,0,1,210
+Villa,Kırsal,4,7,0,0,1,435
+Villa,Şehir Merkezi,3,4,1,1,0,320
+Oda,Kırsal,5,9,1,0,0,385
+Villa,Şehir Merkezi,2,4,1,1,1,325
+Villa,Şehir Merkezi,4,5,0,1,1,355
+Daire,Şehir Merkezi,2,8,0,0,1,285
+Oda,Kırsal,4,1,0,0,1,245
+Oda,Kırsal,3,1,1,0,0,225
+Daire,Kırsal,1,6,0,1,0,310
+Villa,Kırsal,3,10,0,1,0,460
+Oda,Kırsal,4,1,1,1,0,270
+Oda,Kırsal,1,2,0,1,1,225
+Oda,Kırsal,1,1,1,1,1,235
+Daire,Kırsal,2,8,1,0,1,385
+Daire,Kırsal,4,8,0,0,1,400
+Daire,Kırsal,4,10,0,0,1,430
+Villa,Şehir Merkezi,5,8,1,1,1,445
+Villa,Şehir Merkezi,1,9,1,0,1,355
+Daire,Kırsal,4,4,0,1,1,365
+Villa,Kırsal,4,7,1,0,0,435
+Daire,Şehir Merkezi,3,7,1,0,1,315
+Villa,Kırsal,2,8,0,0,1,410
+Daire,Kırsal,4,2,1,0,1,335
+Daire,Kırsal,5,9,1,1,1,485
+Daire,Şehir Merkezi,3,5,0,0,0,235
+Oda,Şehir Merkezi,4,3,1,1,0,225
+Daire,Şehir Merkezi,2,1,0,0,1,180
+Villa,Şehir Merkezi,5,1,1,0,1,315
+Daire,Kırsal,2,8,0,0,0,335
+Oda,Şehir Merkezi,1,7,1,1,0,225
+Villa,Kırsal,2,7,0,0,0,370
+Daire,Kırsal,4,5,1,1,0,380
+Daire,Kırsal,2,9,1,1,1,425
+Villa,Şehir Merkezi,5,7,1,1,1,430
+Villa,Şehir Merkezi,1,9,1,0,1,355
+Villa,Şehir Merkezi,5,8,0,0,0,370
+Oda,Kırsal,2,10,1,0,1,365
+Oda,Şehir Merkezi,5,5,1,0,0,250
+Villa,Şehir Merkezi,1,5,1,0,1,295
+Daire,Kırsal,4,5,0,1,1,380
+Oda,Şehir Merkezi,1,5,0,1,1,195
+Villa,Kırsal,2,6,1,1,0,405
+Oda,Şehir Merkezi,1,10,0,0,0,220
+Oda,Kırsal,5,5,1,1,0,350
+Villa,Şehir Merkezi,2,8,0,1,1,360
+Villa,Kırsal,2,4,1,0,1,375
+Villa,Kırsal,4,6,1,0,0,420
+Daire,Şehir Merkezi,4,4,1,0,0,265
+Daire,Kırsal,2,1,1,1,1,305
+Daire,Kırsal,4,3,0,0,1,325
+Daire,Şehir Merkezi,4,5,1,1,0,305
+Daire,Şehir Merkezi,4,4,1,1,0,290
+Daire,Şehir Merkezi,4,2,1,1,1,285
+Oda,Kırsal,4,7,0,0,1,335
+Oda,Kırsal,4,8,1,0,0,350
+Oda,Şehir Merkezi,2,8,0,0,1,235
+Daire,Şehir Merkezi,3,9,1,1,0,345
+Villa,Kırsal,5,7,0,0,1,455
+Oda,Şehir Merkezi,2,7,0,1,0,220
+Villa,Kırsal,5,1,1,0,0,365
+Villa,Şehir Merkezi,5,2,0,0,1,305
+Villa,Kırsal,2,9,0,0,0,400
+Villa,Kırsal,3,1,1,1,1,375
+Oda,Şehir Merkezi,2,6,1,0,1,230
+Daire,Kırsal,2,7,1,1,1,395
+Villa,Şehir Merkezi,5,5,0,1,0,350
+Oda,Şehir Merkezi,3,2,1,0,1,190
+Oda,Kırsal,1,8,1,1,1,340
+Villa,Kırsal,1,8,0,1,0,390
+Oda,Şehir Merkezi,2,6,0,0,0,180
+Daire,Kırsal,5,7,1,0,1,430
+Oda,Şehir Merkezi,2,10,0,1,1,290
+Villa,Kırsal,3,10,1,0,0,460
+Daire,Şehir Merkezi,2,10,0,1,1,340
+Daire,Kırsal,5,8,0,1,1,445
+Oda,Şehir Merkezi,4,2,1,1,1,235
+Villa,Kırsal,3,3,0,1,1,380
+Daire,Şehir Merkezi,1,6,0,0,1,235
+Daire,Kırsal,3,5,1,0,0,335
+Villa,Kırsal,4,6,1,1,1,470
+Villa,Şehir Merkezi,4,4,0,1,1,340
+Oda,Kırsal,3,6,0,0,1,300
+Daire,Şehir Merkezi,4,5,1,1,0,305
+Villa,Kırsal,3,1,0,1,0,325
+Villa,Şehir Merkezi,4,4,0,0,0,290
+Daire,Kırsal,4,1,0,0,0,270
+Oda,Şehir Merkezi,4,7,0,0,1,260
+Daire,Kırsal,3,3,1,1,0,330
+Oda,Kırsal,3,3,0,0,0,230
+Villa,Şehir Merkezi,3,9,0,1,1,395
+Oda,Şehir Merkezi,2,2,0,0,0,120
+Daire,Kırsal,5,8,0,1,1,445
+Villa,Kırsal,3,5,0,0,0,360
+Oda,Şehir Merkezi,3,9,1,1,0,295
+Villa,Kırsal,4,10,1,0,1,505
+Villa,Şehir Merkezi,5,2,1,1,0,330
+Oda,Kırsal,5,9,1,0,1,410
+Daire,Şehir Merkezi,3,3,0,1,0,230
+Daire,Şehir Merkezi,5,5,0,0,1,300
+Villa,Şehir Merkezi,1,3,1,0,1,265
+Daire,Şehir Merkezi,2,7,1,1,0,295
+Daire,Kırsal,4,9,0,0,0,390
+Oda,Kırsal,3,6,1,1,0,325
+Daire,Şehir Merkezi,4,10,1,0,1,380
+Oda,Şehir Merkezi,4,5,0,0,0,205
+Oda,Şehir Merkezi,3,2,0,1,0,165
+Oda,Kırsal,3,2,0,1,1,265
+Oda,Kırsal,3,8,1,0,0,330
+Villa,Kırsal,4,6,0,1,0,420
+Oda,Şehir Merkezi,4,1,1,0,1,195
+Oda,Kırsal,3,7,0,1,0,315
+Oda,Şehir Merkezi,5,4,0,1,1,260
+Daire,Kırsal,3,2,0,1,0,290
+Villa,Kırsal,4,6,0,0,0,395
+Daire,Şehir Merkezi,5,4,1,0,0,285
+Villa,Şehir Merkezi,1,5,0,0,1,270
+Villa,Kırsal,4,5,0,1,1,430
+Oda,Kırsal,3,2,0,1,0,240
+Villa,Kırsal,3,4,0,1,1,395
+Oda,Kırsal,5,3,0,0,1,295
+Oda,Şehir Merkezi,3,6,1,0,0,225
+Villa,Kırsal,1,2,0,0,1,300
+Daire,Kırsal,4,5,1,0,1,380
+Villa,Şehir Merkezi,3,9,1,1,1,420
+Daire,Kırsal,4,9,1,0,1,440
+Daire,Kırsal,1,3,1,0,1,290
+Oda,Kırsal,1,10,0,1,1,345
+Oda,Şehir Merkezi,3,6,1,0,0,225
+Oda,Şehir Merkezi,3,9,1,1,1,320
+Villa,Kırsal,3,7,1,0,1,440
+Villa,Şehir Merkezi,4,4,1,0,1,340
+Oda,Şehir Merkezi,1,9,1,1,0,255
+Villa,Şehir Merkezi,2,6,0,1,0,305
+Oda,Şehir Merkezi,4,2,0,0,1,185
+Oda,Kırsal,3,3,0,0,1,255
+Daire,Kırsal,3,2,1,1,0,315
+Oda,Şehir Merkezi,3,4,1,0,1,220
+Daire,Şehir Merkezi,2,5,0,1,0,240
+Villa,Şehir Merkezi,1,4,0,0,0,230
+Oda,Kırsal,4,9,1,1,1,415
+Oda,Kırsal,3,6,0,1,1,325
+Daire,Kırsal,4,4,0,1,1,365
+Daire,Şehir Merkezi,4,7,0,1,1,335
+Villa,Şehir Merkezi,3,5,0,1,0,310
+Villa,Şehir Merkezi,5,6,0,1,1,390
+Villa,Şehir Merkezi,5,3,0,1,1,345
+Villa,Şehir Merkezi,3,9,1,0,0,370
+Villa,Kırsal,2,6,0,1,1,405
+Oda,Şehir Merkezi,5,1,1,0,0,190
+Villa,Kırsal,3,6,0,1,0,400
+Daire,Şehir Merkezi,4,5,1,0,1,305
+Daire,Şehir Merkezi,5,6,1,0,0,315
+Daire,Kırsal,5,2,1,1,1,380
+Daire,Şehir Merkezi,2,8,0,0,1,285
+Villa,Kırsal,5,2,0,1,1,405
+Oda,Şehir Merkezi,3,8,0,1,0,255
+Villa,Şehir Merkezi,4,5,1,0,0,330
+Daire,Kırsal,1,9,1,1,0,380
+Oda,Şehir Merkezi,1,3,0,0,1,140
+Daire,Kırsal,2,7,0,1,0,345
+Villa,Şehir Merkezi,1,8,1,1,1,365
+Oda,Kırsal,2,9,1,1,0,350
+Daire,Şehir Merkezi,3,1,0,1,0,200
+Oda,Kırsal,3,8,0,1,1,355
+Daire,Kırsal,3,10,1,0,0,410
+Daire,Kırsal,1,7,0,0,0,300
+Villa,Şehir Merkezi,3,9,0,0,0,345
+Daire,Şehir Merkezi,1,1,1,1,0,185
+Daire,Kırsal,2,10,0,1,0,390
+Oda,Kırsal,1,4,1,1,1,280
+Daire,Şehir Merkezi,5,5,0,1,1,325
+Oda,Kırsal,1,7,0,0,1,275
+Daire,Kırsal,4,9,1,1,0,440
+Villa,Şehir Merkezi,2,10,0,1,1,390
+Oda,Şehir Merkezi,2,7,1,1,1,270
+Oda,Kırsal,5,8,1,0,0,370
+Oda,Kırsal,2,8,1,1,1,360
+Villa,Şehir Merkezi,1,2,0,0,1,225
+Oda,Şehir Merkezi,4,8,1,0,1,300
+Oda,Şehir Merkezi,1,9,1,1,0,255
+Daire,Kırsal,5,3,0,1,1,370
+Daire,Şehir Merkezi,3,8,0,0,1,305
+Villa,Kırsal,3,9,0,1,1,470
+Oda,Kırsal,2,3,0,1,0,235
+Oda,Kırsal,5,1,0,0,1,265
+Oda,Şehir Merkezi,2,6,1,1,0,230
+Oda,Şehir Merkezi,5,6,0,1,0,265
+Daire,Şehir Merkezi,4,8,0,0,1,325
+Oda,Kırsal,2,2,1,1,0,245
+Daire,Kırsal,4,8,1,1,1,450
+Oda,Şehir Merkezi,3,2,1,0,0,165
+Oda,Kırsal,5,6,1,0,1,365
+Villa,Şehir Merkezi,4,4,0,1,1,340
+Daire,Şehir Merkezi,2,8,0,0,0,260
+Oda,Kırsal,5,1,0,1,0,265
+Daire,Kırsal,4,10,1,0,1,455
+Villa,Kırsal,5,5,1,0,0,425
+Oda,Kırsal,1,5,1,0,0,245
+Daire,Şehir Merkezi,1,10,1,1,1,345
+Oda,Şehir Merkezi,5,7,0,1,0,280
+Daire,Şehir Merkezi,1,7,0,0,0,225
+Daire,Kırsal,5,5,0,0,1,375
+Daire,Kırsal,3,2,1,1,0,315
+Oda,Kırsal,4,9,1,0,1,390
+Oda,Şehir Merkezi,5,3,1,1,1,270
+Oda,Şehir Merkezi,2,8,0,1,0,235
+Villa,Şehir Merkezi,2,5,1,0,0,290
+Villa,Şehir Merkezi,5,10,1,1,0,450
+Daire,Kırsal,3,8,1,1,1,430
+Oda,Kırsal,4,1,1,0,0,245
+Oda,Kırsal,5,3,0,0,0,270
+Daire,Şehir Merkezi,4,10,1,1,0,380
+Daire,Kırsal,5,8,1,1,1,470
+Oda,Şehir Merkezi,5,8,1,0,0,295
+Oda,Şehir Merkezi,5,9,1,1,1,360
+Daire,Şehir Merkezi,5,3,1,0,0,270
+Daire,Kırsal,5,5,0,1,1,400
+Oda,Şehir Merkezi,3,4,1,1,1,245
+Oda,Kırsal,2,9,1,1,1,375
+Daire,Kırsal,3,7,0,0,0,340
+Daire,Şehir Merkezi,3,8,1,0,1,330
+Villa,Kırsal,5,10,0,1,0,500
+Daire,Şehir Merkezi,2,5,1,1,0,265
+Villa,Kırsal,2,4,0,0,0,325
+Daire,Kırsal,1,4,1,0,1,305
+Daire,Şehir Merkezi,5,4,0,0,0,260
+Oda,Kırsal,2,10,0,0,1,340
+Oda,Kırsal,3,7,0,0,1,315
+Oda,Şehir Merkezi,1,3,1,1,1,190
+Villa,Şehir Merkezi,4,9,1,1,1,440
+Oda,Şehir Merkezi,5,1,0,1,1,215
+Daire,Kırsal,2,10,0,0,1,390
+Villa,Kırsal,4,6,1,0,0,420
+Villa,Şehir Merkezi,3,8,1,1,1,405
+Villa,Kırsal,5,3,1,1,0,420
+Oda,Kırsal,1,10,0,0,0,295
+Daire,Kırsal,2,5,0,1,1,340
+Villa,Kırsal,1,5,0,0,0,320
+Villa,Kırsal,5,10,0,0,1,500
+Oda,Kırsal,1,7,1,1,0,300
+Daire,Şehir Merkezi,1,10,1,1,0,320
+Oda,Kırsal,1,7,1,0,1,300
+Villa,Kırsal,1,10,1,0,1,445
+Villa,Kırsal,2,6,1,1,1,430
+Daire,Kırsal,2,3,1,1,0,310
+Daire,Kırsal,4,10,1,1,0,455
+Villa,Kırsal,2,9,1,1,0,450
+Oda,Kırsal,3,1,1,0,1,250
+Daire,Kırsal,3,8,0,0,1,380
+Daire,Kırsal,5,3,0,1,0,345
+Villa,Şehir Merkezi,1,5,0,1,1,295
+Villa,Kırsal,2,9,1,1,0,450
+Daire,Kırsal,2,6,1,1,1,380
+Oda,Şehir Merkezi,1,1,0,1,1,135
+Villa,Şehir Merkezi,4,8,1,0,1,400
+Oda,Şehir Merkezi,2,10,1,1,1,315
+Daire,Kırsal,5,6,1,1,0,415
+Villa,Kırsal,3,6,0,1,0,400
+Oda,Şehir Merkezi,3,6,0,0,0,200
+Villa,Şehir Merkezi,3,6,0,1,1,350
+Daire,Kırsal,3,8,1,0,1,405
+Villa,Kırsal,5,3,1,1,1,445
+Daire,Şehir Merkezi,3,6,0,0,0,250
+Daire,Kırsal,4,1,0,0,0,270
+Villa,Kırsal,4,4,1,1,0,415
+Daire,Kırsal,3,8,1,1,0,405
+Villa,Kırsal,1,6,1,0,1,385
+Villa,Kırsal,2,6,1,0,1,405
+Oda,Kırsal,1,8,0,1,1,315
+Villa,Kırsal,2,5,0,1,1,390
+Villa,Şehir Merkezi,1,1,0,0,1,210
+Oda,Kırsal,5,3,0,0,1,295
+Oda,Şehir Merkezi,1,4,1,0,0,155
+Daire,Kırsal,2,3,1,1,0,310
+Daire,Şehir Merkezi,2,5,1,0,1,265
+Oda,Kırsal,4,6,1,0,1,345
+Oda,Şehir Merkezi,5,2,0,0,0,180
+Villa,Kırsal,3,5,1,0,1,410
+Villa,Şehir Merkezi,4,5,0,0,1,330
+Villa,Kırsal,4,7,0,1,1,460
+Daire,Şehir Merkezi,2,3,1,0,1,235
+Oda,Şehir Merkezi,1,6,1,0,0,185
+Villa,Şehir Merkezi,1,10,0,0,0,320
+Daire,Şehir Merkezi,2,4,0,1,1,250
+Oda,Şehir Merkezi,3,8,0,1,0,255
+Daire,Şehir Merkezi,3,2,0,0,0,190
+Villa,Şehir Merkezi,1,5,0,0,0,245
+Daire,Kırsal,5,4,0,0,1,360
+Villa,Kırsal,5,1,1,1,0,390
+Oda,Kırsal,1,7,0,0,0,250
+Villa,Şehir Merkezi,4,9,1,0,0,390
+Oda,Şehir Merkezi,4,5,1,0,1,255
+Villa,Kırsal,4,6,0,0,0,395
+Oda,Kırsal,2,3,0,0,1,235
+Daire,Kırsal,5,1,1,0,1,340
+Oda,Kırsal,5,4,0,1,1,335
+Oda,Kırsal,1,7,1,0,0,275
+Daire,Şehir Merkezi,4,6,1,1,0,320
+Villa,Kırsal,1,8,1,0,0,390
+Oda,Şehir Merkezi,2,6,0,1,0,205
+Villa,Şehir Merkezi,3,8,1,1,1,405
+Oda,Kırsal,3,4,1,1,1,320
+Oda,Kırsal,5,2,0,0,0,255
+Daire,Kırsal,2,9,1,0,1,400
+Villa,Şehir Merkezi,1,4,1,0,1,280
+Oda,Kırsal,1,9,1,1,1,355
+Oda,Kırsal,2,7,1,0,0,295
+Villa,Şehir Merkezi,3,4,1,0,0,295
+Daire,Kırsal,2,10,1,0,0,390
+Oda,Kırsal,4,10,1,1,1,430
+Villa,Kırsal,3,9,0,1,0,445
+Oda,Kırsal,5,3,1,0,0,295
+Oda,Şehir Merkezi,5,4,1,1,0,260
+Oda,Kırsal,3,3,1,1,1,305
+Villa,Kırsal,5,6,0,0,0,415
+Daire,Kırsal,4,3,0,0,1,325
+Villa,Kırsal,1,4,0,0,0,305
+Villa,Kırsal,5,1,1,1,0,390
+Villa,Şehir Merkezi,3,4,1,0,0,295
+Oda,Şehir Merkezi,2,1,0,0,0,105
+Villa,Kırsal,5,3,1,0,1,420
+Oda,Şehir Merkezi,2,7,0,0,1,220
+Villa,Kırsal,1,5,1,0,0,345
+Daire,Şehir Merkezi,5,1,1,0,1,265
+Daire,Şehir Merkezi,1,9,0,0,0,255
+Villa,Şehir Merkezi,2,10,1,1,1,415
+Oda,Kırsal,3,9,1,0,1,370
+Daire,Kırsal,1,5,1,0,0,295
+Daire,Kırsal,4,2,0,1,1,335
+Oda,Şehir Merkezi,5,7,0,0,0,255
+Oda,Kırsal,3,4,0,1,0,270
+Oda,Şehir Merkezi,3,6,0,1,0,225
+Oda,Kırsal,2,10,1,0,0,340
+Villa,Kırsal,1,2,0,1,1,325
+Oda,Kırsal,5,9,0,1,0,385
+Daire,Şehir Merkezi,1,3,0,1,0,190
+Daire,Kırsal,4,9,0,0,0,390
+Villa,Kırsal,5,7,1,0,1,480
+Daire,Kırsal,3,9,1,1,0,420
+Daire,Şehir Merkezi,3,2,1,1,1,265
+Daire,Şehir Merkezi,2,3,0,1,1,235
+Villa,Şehir Merkezi,5,10,0,1,0,425
+Daire,Kırsal,3,10,0,1,1,435
+Villa,Şehir Merkezi,3,1,1,1,1,300
+Villa,Şehir Merkezi,4,6,0,0,1,345
+Villa,Kırsal,4,9,1,0,0,465
+Daire,Kırsal,3,8,1,0,0,380
+Villa,Kırsal,5,7,0,1,1,480
+Oda,Şehir Merkezi,4,7,1,1,0,285
+Villa,Şehir Merkezi,5,2,1,1,1,355
+Daire,Şehir Merkezi,1,6,1,1,0,260
+Villa,Kırsal,5,1,0,1,0,365
+Oda,Şehir Merkezi,2,4,1,1,1,225
+Oda,Şehir Merkezi,5,2,0,0,0,180
+Villa,Kırsal,4,8,0,1,0,450
+Oda,Şehir Merkezi,2,10,1,0,0,265
+Daire,Kırsal,5,7,1,0,0,405
+Daire,Kırsal,1,3,1,1,1,315
+Daire,Kırsal,1,9,1,0,1,380
+Villa,Kırsal,1,6,1,1,1,410
+Oda,Kırsal,1,7,1,1,0,300
+Daire,Şehir Merkezi,5,4,1,0,1,310
+Daire,Şehir Merkezi,3,5,0,0,0,235
+Daire,Kırsal,5,6,1,0,1,415
+Villa,Kırsal,3,6,1,0,1,425
+Oda,Şehir Merkezi,1,8,1,0,1,240
+Villa,Şehir Merkezi,4,6,1,1,1,395
+Oda,Kırsal,1,4,0,0,1,230
+Daire,Şehir Merkezi,1,6,1,1,1,285
+Villa,Kırsal,5,3,1,0,0,395
+Villa,Şehir Merkezi,1,9,1,0,0,330
+Oda,Şehir Merkezi,4,5,1,1,0,255
+Daire,Kırsal,5,2,1,0,0,330
+Daire,Şehir Merkezi,2,2,1,0,1,220
+Oda,Kırsal,3,8,0,1,1,355
+Villa,Şehir Merkezi,2,7,0,0,0,295
+Oda,Kırsal,4,4,1,1,1,340
+Oda,Şehir Merkezi,4,2,1,1,0,210
+Daire,Şehir Merkezi,1,7,1,0,0,250
+Villa,Kırsal,3,3,1,0,1,380
+Villa,Şehir Merkezi,3,7,0,1,0,340
+Villa,Kırsal,1,6,0,0,1,360
+Oda,Kırsal,1,5,1,1,0,270
+Daire,Kırsal,2,7,0,1,1,370
+Oda,Şehir Merkezi,4,1,0,1,1,195
+Villa,Kırsal,3,10,1,0,0,460
