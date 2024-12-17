@@ -24,11 +24,14 @@ st.set_page_config(layout="wide", page_title="Airbnb Fiyat Tahmini", page_icon="
 # CSS ile arka plan ve genel düzenleme
 st.markdown(f"""
     <style>
+        
+    
         /* Arka plan resmi */
         .stApp {{
             background: url("data:image/png;base64,{image_base64}") no-repeat center center fixed;
             background-size: cover;
         }}
+        
 
         /* Ana blok kutusu (beyaz alan) */
         .block-container {{
@@ -58,26 +61,34 @@ st.markdown(f"""
         }}
 
         /* Buton stilleri */
-        .stButton > button {{
-            background-color: #4CAF50;
-            color: white;
-            font-size: 14px; /* Buton yazı boyutunu küçülttüm */
-            font-weight: bold;
-            border: none;
-            border-radius: 8px;
-            height: 40px;
-            width: 180px; /* Buton genişliğini daralttım */
-            margin: 10px auto;
-            display: block;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-            transition: all 0.3s ease;
-        }}
+.stButton > button {{
+    background: linear-gradient(135deg, #4CAF50, #388E3C); /* Hafif degrade renk */
+    color: white;
+    font-size: 14px; /* Yazı boyutu */
+    font-weight: bold;
+    border: none;
+    border-radius: 12px; /* Daha yuvarlak köşeler */
+    height: 45px;
+    width: 200px; /* Genişlik ayarı */
+    margin: 10px auto; /* Ortalamak için */
+    display: block;
+    cursor: pointer;
+    letter-spacing: 1px; /* Harf arası boşluk */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+    transition: all 0.3s ease; /* Geçiş efekti */
+}}
 
-        .stButton > button:hover {{
-            background-color: #45a049;
-            transform: scale(1.05);
-            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
-        }}
+.stButton > button:hover {{
+    background: linear-gradient(135deg, #45a049, #2E7D32); /* Hover'da farklı degrade */
+    transform: scale(1.07); /* Biraz büyüme efekti */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Daha yoğun gölge */
+}}
+
+.stButton > button:active {{
+    transform: scale(1); /* Tıklanırken eski haline dönme */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}}
+
 
         /* Giriş kutuları */
         .stSelectbox, .stNumberInput {{
@@ -104,7 +115,11 @@ with col1:
 
 # Sağ sütun: Tahmin sonucu
 with col2:
-    st.markdown("## 📊 Airbnb Fiyat Tahmini Uygulaması")
+    st.markdown("""
+    <h1 style="text-align: center; margin-top: 250px;">
+        📊 Airbnb Fiyat Tahmini Uygulaması
+    </h1>
+""", unsafe_allow_html=True)
     data = {
         "Oda Sayısı": oda_sayisi,
         "Kişi Sayısı": kisi_sayisi,
@@ -124,5 +139,10 @@ with col2:
     # Tahmin yapma
     if st.button("Fiyat Tahmin Et"):
         tahmin = model.predict(input_data)
-        st.markdown(f"### 💰 Tahmini Günlük Fiyat: **{tahmin[0]:.2f} TL**")
+        st.markdown(f"""
+            <h3 style="text-align: center; margin-top: 20px;">
+                💰 Tahmini Günlük Fiyat: <strong>{tahmin[0]:.2f} TL</strong>
+            </h3>
+        """, unsafe_allow_html=True)
+  
 
